@@ -1,4 +1,4 @@
-# appflow-vue3-crx
+# vue3-chrome-extension-mv2
 
 ## Project setup
 ```
