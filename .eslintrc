@@ -1,0 +1,20 @@
+{
+  "root": true,
+  "env": {
+    "browser": true,
+    "es6": true
+  },
+  "ignorePatterns": ["./**", "dist/"],
+  "extends": [
+    "plugin:vue/essential",
+    // "plugin:prettier/recommended",
+    "eslint:recommended"
+  ],
+  "parserOptions": {
+    "parser": "@babel/eslint-parser"
+  },
+  "globals": {
+    "chrome": "readonly"
+  },
+  "rules": {}
+}
